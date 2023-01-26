@@ -4,10 +4,6 @@ public enum CurrencyIso {
 
     EUR("Euro");
 
-    private String currency;
-
-    CurrencyIso(String currency) {
-        this.currency = currency;
-    }
+    CurrencyIso(String currency) { }
 
 }
